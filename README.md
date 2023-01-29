@@ -14,7 +14,8 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2023
 **Git and GitHub**
 - Intro to Git and GitHub ([slides](https://drive.google.com/file/d/17muOlcC-pgglpXUiaJAL47e5q688Echl/view?usp=sharing))
 - Guide on How to Set Up SSH Keys for Git and GitHub ([document](https://drive.google.com/file/d/1EdDNwJFnV0igch_gbW6KlGduXkzHggkp/view?usp=sharing))
-- Description of Feature Branch Workflow Operation ([document](https://drive.google.com/file/d/1sZQmcPlp2M36dGEbWsbwsN2kJRd8tLp5/view?usp=sharing))
+- [Tutorial: Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+- Description of Git Feature Branch Workflow Operation ([document](https://drive.google.com/file/d/1sZQmcPlp2M36dGEbWsbwsN2kJRd8tLp5/view?usp=sharing))
 - Guide on How to Set Up Team Repository on GitHub ([document](https://drive.google.com/file/d/1iPZqu7jrsxXRGlVfdaM0XxGtEg4lKkkt/view?usp=sharing))
 - [Sign up for GitHub](https://github.com)
 - [Download and Install Git](https://git-scm.com)
@@ -24,7 +25,6 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2023
 - [Set up Git for GitHub](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 - [Connect to GitHub via SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/about-ssh)
 - [Deploy Repository to GitHub Pages](https://docs.github.com/en/pages/quickstart)
-- [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
 **Demo**
 - Create a simple website GitHub repository, implement Git version control, 
