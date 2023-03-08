@@ -136,7 +136,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2023
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
 - Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
-- NPM (Node Package Manager), NVM (Node.js Version Manager), NPX (Node Package Execute)
+- NPM (Node Package Manager), NPX (Node Package Execute), NVM (Node.js Version Manager)
 
 **Demo**
 - A simple React application - Hello World
