@@ -184,7 +184,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2023
 ----------
 ## Class 8 (3/21, 3/23)
 **React Router**
-- Single-Page Application and Client-Side Routing (*summary*)
+- Single-Page Application, Client-Side Routing, React Router (*summary*)
 - Intro to React Router ([slides](https://drive.google.com/file/d/1hgwPyZzvKDtftmdgSWdahXR4xGWCm42z/view?usp=sharing))
 
 **Intro to Assignment 4**
