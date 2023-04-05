@@ -219,6 +219,9 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2023
 ----------
 ## Class 10 (4/4, 4/18)
 
+### *Note:* HAVE A NICE SPRING BREAK! Class resumes on Tuesday, 4/18. 
+<br/>
+
 **Intro to Final Project**
 - ### [Final Project - Full-Stack CRUD Application](https://drive.google.com/file/d/1MXZYnXZ3g6ath3aVINZWHjdKfyU5yONO/view?usp=sharing)
 - **[Client starter code for Final Project](https://github.com/johnnylaicode/client-starter-code)**
