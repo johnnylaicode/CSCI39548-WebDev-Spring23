@@ -219,7 +219,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2023
 ----------
 ## Class 10 (4/4, 4/18)
 
-### *Note:* HAVE A NICE SPRING BREAK! Class resumes on Tuesday, 4/18. 
+### *Note:* HAVE A NICE SPRING BREAK! Class (Lecture #2) resumes on Tuesday, 4/18. 
 <br/>
 
 **Intro to Final Project**
